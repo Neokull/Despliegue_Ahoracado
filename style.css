@@ -5,3 +5,8 @@ body {
   text-align: center;
   margin-top: 50px;
 }
+
+button {
+  color: white;
+  background-color: black;
+}
